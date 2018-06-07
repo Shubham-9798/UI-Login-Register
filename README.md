@@ -14,4 +14,4 @@
 
 ### version 1.0.0
 
-### Author _shubham kapoor _
+### Author _shubham kapoor_
